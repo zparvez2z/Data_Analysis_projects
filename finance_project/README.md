@@ -11,3 +11,5 @@ Used stock information of the following banks:
 * JPMorgan Chase
 * Morgan Stanley
 * Wells Fargo
+
+[view details](https://nbviewer.jupyter.org/github/zparvez2z/Data_Analysis_projects/blob/master/finance_project/Data_analysis_Finance_Project.ipynb)
