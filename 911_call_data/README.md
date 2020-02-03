@@ -10,4 +10,4 @@ For this project I will be analyzing some 911 call data from [Kaggle](https://ww
 * addr: String variable, Address
 * e: String variable, Dummy variable (always 1)
 
-[view deatails](https://nbviewer.jupyter.org/github/zparvez2z/Data_Analysis_projects/blob/master/911_call_data/data_analysis_911_Calls_Data.ipynb)
+[view details](https://nbviewer.jupyter.org/github/zparvez2z/Data_Analysis_projects/blob/master/911_call_data/data_analysis_911_Calls_Data.ipynb)
